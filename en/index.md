@@ -12,7 +12,7 @@ lang: en
 | Item | Details |
 | --- | --- |
 | Name | Abhishek Bante |
-| Birth | 2003 (Age 21) |
+| Birth | 2004 (Age 21) |
 | Email | [abhishekbante01@gmail.com](mailto:abhishekbante01@gmail.com) |
 | LinkedIn | [https://www.linkedin.com/in/abhishek-bante/](https://www.linkedin.com/in/abhishek-bante/) |
 | Portfolio | [https://abbhishek-portfolio.netlify.app/](https://abbhishek-portfolio.netlify.app/) |
